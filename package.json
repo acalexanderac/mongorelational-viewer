@@ -1,0 +1,16 @@
+{
+  "name": "mongo-schema-visualizer",
+  "version": "0.1.0",
+  "description": "Visualize MongoDB database schemas and relationships",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "mongodb": "^5.0.0"
+  },
+  "devDependencies": {
+    "jest": "^27.0.0"
+  }
+} 
